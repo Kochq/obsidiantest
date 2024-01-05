@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "d7666dbf3e93d589",
+    "type": "split",
+    "children": [
+      {
+        "id": "51edb59eef501aa7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "96a78413d7adb36b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "064792ad4d97d45f",
+    "type": "split",
+    "children": [
+      {
+        "id": "f66829e662743280",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "84058d4b16a07e73",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ee0cc03ac1af0f60",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "258d055586fbf977",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1c00db658a2282a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "c087c70d3a5c9e9e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba67f13ffae435bd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "63b7f687cd16c51f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b752aad51131cb58",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "94d256b052bc11a3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "96a78413d7adb36b",
+  "lastOpenFiles": [
+    "test.md",
+    "Excalidraw/Drawing 2024-01-05 13.32.17.excalidraw.md",
+    "1704463770-info.md",
+    "1704463497-tip.md",
+    "Welcome.md",
+    "create a link.md",
+    "Pasted image 20240105133030.png",
+    "Excalidraw",
+    "Untitled.canvas",
+    "2024-01-05.md",
+    "Untitled 1.canvas",
+    "4913",
+    "youtube.com.ar.md",
+    "templates",
+    "notes/dailies",
+    "notes"
+  ]
+}
