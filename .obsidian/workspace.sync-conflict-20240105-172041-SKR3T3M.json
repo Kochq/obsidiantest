@@ -11,8 +11,12 @@
             "id": "96a78413d7adb36b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "1c00db658a2282a0",
@@ -82,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Welcome.md"
+              }
             }
           }
         ]
@@ -142,12 +149,11 @@
   },
   "active": "96a78413d7adb36b",
   "lastOpenFiles": [
-    "Pasted image 20240105133030.png.md",
-    "Welcome.md",
     "test.md",
     "Excalidraw/Drawing 2024-01-05 13.32.17.excalidraw.md",
     "1704463770-info.md",
     "1704463497-tip.md",
+    "Welcome.md",
     "create a link.md",
     "Pasted image 20240105133030.png",
     "Excalidraw",
